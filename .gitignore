@@ -1,2 +1,5 @@
 # Remove virtual environment
 venv
+
+# Remove debugging png's
+*.png
